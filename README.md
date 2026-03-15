@@ -43,14 +43,14 @@ This project demonstrates:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ankurdeveloper0-coder/Payment_moduel.git
+git clone https://github.com/ankurdeveloper0-coder/payment-methods-api.git
 
 2. Create vitual environment 
 
 python -m venv venv
 source venv/bin/activate   # Linux/macOS
 
-3. cd Payment_moduel
+3. cd payment-methods-api
 
 
 4. Install dependencies
